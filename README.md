@@ -8,7 +8,7 @@
 
 ## Example Sequence in PARK sequence
 * Our perceptual sensor data from each robot.
-	<p align="center"><img src=fig/sensor.gif /></p>
+	<p align="center"><img src=fig/lawn_small.gif /></p>
 
 ## Trajectory
 * Utilizing the [POINT-LIO](https://github.com/hku-mars/Point-LIO), we provide a reference trajectory in dynamic terrains. 
