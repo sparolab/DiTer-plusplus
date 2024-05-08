@@ -28,7 +28,7 @@
 	<p align="center"><img src=fig/park_multi_session.gif /></p>
 
 ## Map
-* We construct a global map by accumulating pointclouds through the reference trajectory.
+* The global map is generated using [Point-LIO](https://github.com/hku-mars/Point-LIO), and [Uni-Mapper](https://sites.google.com/view/sparo/activities/icra-2024#h.wmpj5r2atjjp).  
 <p align="center"><img src=fig/glob_map.png /></p>
 
 ## Cite DiTer++
