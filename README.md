@@ -6,8 +6,8 @@
 	* We configure multiple legged robot with various sensors offered in multi-session datasets.
 	<p align="center"><img src=fig/sensor_setup.png /></p>
 
-## Example Sequence in HILL01-A
-* Our perceptual sensor data.
+## Example Sequence in PARK sequence
+* Our perceptual sensor data from each robot.
 	<p align="center"><img src=fig/sensor.gif /></p>
 
 ## Trajectory
