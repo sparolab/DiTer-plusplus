@@ -1,6 +1,8 @@
-## DiTer++
+# DiTer++
 * **DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments**
 	* Accepted in ICRA24 / Workshop on Future of Construction
+## Download
+* The dataset is provided on-demand. Link containing all data in our paper will be uploaded soon. 
 
 * **Sensor Configuration** 
 	* We configure multiple legged robot with various sensors offered in multi-session datasets.
