@@ -2,7 +2,7 @@
 * **DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments**
   	* Accepted in ICRA24 / Workshop on Future of Construction
   	  
-	[![ProjectPage](https://github.com/sparolab/DiTer-plusplus/blob/main/fig/badges/badge-website.svg)](https://sites.google.com/view/diter-plusplus)
+	<a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 
 
