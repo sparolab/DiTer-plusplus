@@ -4,8 +4,8 @@
 ## Download
 * The dataset is provided on-demand. Link containing all data in our paper will be uploaded soon. 
 
-* **Sensor Configuration** 
-	* We configure multiple legged robot with various sensors offered in multi-session datasets.
+## Sensor Configuration** 
+* We configure multiple legged robot with various sensors offered in multi-session datasets.
 	<p align="center"><img src=fig/sensor_setup.png /></p>
 
 ## Example Sequence in each sequence
