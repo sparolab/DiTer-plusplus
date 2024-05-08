@@ -10,13 +10,17 @@
 ### Calibration
 * Sensor calibration parameters including intrinsic & extrinsic will be uploaded soon.
 
+## Data & Topic
+* Our data are stored in rosbag format
+* Each agent has custom namespace of its own to be distinguishable
+* Topic name for each sensor are listed in table below
+	<p align="center"><img src=fig/topic.png /></p>	
 
 ## Example Sequence in each sequence
 * Our perceptual sensor data from each robot with heterogenous LiDAR.
 	<p align="center"><img src=fig/lawn_small.gif /></p>
 * Multi-session sensor data is also avaliable from each site.
 	<p align="center"><img src=fig/park_multi_session.gif /></p>
-
 
 ## Map
 * We construct a global map by accumulating pointclouds through the reference trajectory.
