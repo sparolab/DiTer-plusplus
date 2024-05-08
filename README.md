@@ -46,7 +46,4 @@
 * **Seokhwan Jeong (eric5709@inha.edu)**
 * **Hogyun Kim (hg.kim@inha.edu)**
 
-## Supplementary
-* **[Google Sites](https://sites.google.com/view/diter-plusplus/)**
-* **[Youtube](wip)**
 
