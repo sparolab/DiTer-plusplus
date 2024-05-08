@@ -15,7 +15,7 @@
 
 ## Map
 * We construct a global map by accumulating pointclouds through the reference trajectory.
-<p align="center"><img src=fig/map.png /></p>
+<p align="center"><img src=fig/map2.png /></p>
 
 ## Cite DiTer
 <pre>
