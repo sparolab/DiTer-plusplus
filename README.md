@@ -6,13 +6,12 @@
 	* We configure multiple legged robot with various sensors offered in multi-session datasets.
 	<p align="center"><img src=fig/sensor_setup.png /></p>
 
-## Example Sequence in PARK sequence
-* Our perceptual sensor data from each robot.
+## Example Sequence in each sequence
+* Our perceptual sensor data from each robot with heterogenous LiDAR.
 	<p align="center"><img src=fig/lawn_small.gif /></p>
+* Multi-session sensor data is also avaliable from each site.
+	<p align="center"><img src=fig/park_multi_session.gif /></p>
 
-## Trajectory
-* Utilizing the [POINT-LIO](https://github.com/hku-mars/Point-LIO), we provide a reference trajectory in dynamic terrains. 
-<p align="center"><img src=fig/trajectory.png /></p>
 
 ## Map
 * We construct a global map by accumulating pointclouds through the reference trajectory.
