@@ -1,11 +1,28 @@
-# DiTer++
-* **DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments**
-  	* Accepted in ICRA24 / Workshop on Future of Construction
-  	
-   	* Submitted to ICRA25
-  	  
-	<a href="https://sites.google.com/view/diter-plusplus"><img src="https://img.shields.io/badge/Project_site-link-green?logo=google&logoColor=blue&link=https%3A%2F%2Fsites.google.com%2Fview%2Fditer-plusplus"/></a>
+<div align="center">
+  <h1>DiTer++ Datasets</h1>
+  <a href="https://sites.google.com/view/diter-plusplus"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10629042"><img src="https://img.shields.io/badge/Paper-PDF-yellow" alt="Paper" /></a>
+  <a href="https://arxiv.org/abs/2408.07330"><img src="https://img.shields.io/badge/arXiv-2408.07330-b31b1b.svg?style=flat-square" alt="Arxiv" /></a>
+  <a href="https://www.youtube.com/watch?v=4sAWWfZTwLs"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
+  <br />
+  <br />
+  
+**(Under Review) [IEEE ICRA 25]** This repository is the official code for DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments.
 
+  <a href="https://scholar.google.com/citations?user=wL8VdUMAAAAJ&hl=ko" target="_blank">Jiwon Choi</a><sup></sup>,
+  <a href="" target="_blank">Dongjin Cho</a><sup></sup>,
+  <a href="https://scholar.google.com/citations?user=iKsImcYAAAAJ&hl=ko" target="_blank">Gihyeon Lee</a><sup></sup>,
+  <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Hogyun Kim</a><sup></sup>,
+  <a href="https://scholar.google.com/citations?user=kiBTkqMAAAAJ&hl=ko" target="_blank">Geonmo Yang</a><sup></sup>,
+  <a href="https://scholar.google.com/citations?user=W5MOKWIAAAAJ&hl=ko" target="_blank">Younggun Cho</a><sup>†</sup>
+
+**[Spatial AI and Robotics Lab (SPARO)](https://sites.google.com/view/sparo/%ED%99%88?authuser=0&pli=1)**
+  
+</div>
+
+## News
+* Accepted in ICRA24 / Workshop on Future of Construction
+* Submitted to ICRA25
 
 
 ## Download
