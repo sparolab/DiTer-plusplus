@@ -1,7 +1,7 @@
 <div align="center">
   <h1>DiTer++ Datasets</h1>
   <a href="https://sites.google.com/view/diter-plusplus"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
-  <a href="https://www.youtube.com/watch?v=4sAWWfZTwLs"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
+  <a href="https://youtu.be/RJ_netgAOT8"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
   <br />
   <br />
   
