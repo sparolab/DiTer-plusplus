@@ -37,22 +37,12 @@
 * Topic name for each sensor are listed in table below
 	<p align="center"><img src=fig/topics.png /></p>	
 
-## Example Sequence in each sequence
-* Our perceptual sensor data from each robot with heterogenous LiDAR.
-	<p align="center"><img src=fig/lawn_small.gif /></p>
-* Multi-session sensor data is also avaliable from each site.
-	<p align="center"><img src=fig/park_multi_session.gif /></p>
-
-## Map
-* The global map is generated using [Point-LIO](https://github.com/hku-mars/Point-LIO), and [Uni-Mapper](https://sites.google.com/view/sparo/activities/icra-2024#h.wmpj5r2atjjp).  
-<p align="center"><img src=fig/glob_map.png /></p>
-
 ## Cite DiTer++
 <pre>
 <code>
 @article{kim2024diter,
   title={DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments},
-  author={Kim, Juwon, Jeong, Seokhwan and Kim, Hogyun and Cho, Younggun}
+  author={Kim, Juwon, Kim, Hogyun, Jeong, Seokhwan, Shin, Youngsik and  and Cho, Younggun}
 }
 </code>
 </pre>  
