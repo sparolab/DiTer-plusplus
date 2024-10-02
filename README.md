@@ -27,7 +27,7 @@
 
 ## Sensor Configuration
 * We configure multiple legged robot with various sensors offered in multi-session datasets.
-	<p align="center"><img src= fig/sensor_setup.png/></p>
+	<p align="center"><img src=fig/sensor_setup.png/></p>
 ### Calibration
 * Sensor calibration parameters including intrinsic & extrinsic will be uploaded soon.
 
