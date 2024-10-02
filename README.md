@@ -35,7 +35,7 @@
 * Our data are stored in rosbag format
 * Each agent has custom namespace of its own to be distinguishable
 * Topic name for each sensor are listed in table below
-	<p align="center"><img src=fig/topic.png /></p>	
+	<p align="center"><img src=fig/topics.png /></p>	
 
 ## Example Sequence in each sequence
 * Our perceptual sensor data from each robot with heterogenous LiDAR.
