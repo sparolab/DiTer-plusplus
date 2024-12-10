@@ -53,7 +53,7 @@
 
 DiTer++ is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. 
 
-Please accordingly read the license and use our dataset. Thank you for your interest! 
+Please read the license and use our data set accordingly. Thank you very much for your interest!
 
 ## Contact
 * **Juwon Kim (lambertkim317@gmail.com)**
