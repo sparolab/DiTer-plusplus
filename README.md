@@ -1,6 +1,6 @@
 <div align="center">
   <h1>DiTer++ Datasets</h1>
-<p align="center"><img src=fig/IMG_8247.jpg/></p>
+<p align="center"><img src=fig/IMG_0014.jpg/></p>
   <a href="https://arxiv.org/abs/2412.05839"><img src="https://img.shields.io/badge/arXiv-2412.05839-b31b1b.svg?style=flat-square" alt="Arxiv" /></a>
   <a href="https://sites.google.com/view/diter-plusplus"><img src="https://github.com/sparolab/Joint_ID/blob/main/fig/badges/badge-website.svg" alt="Project" /></a>
   <a href="https://youtu.be/RJ_netgAOT8"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
