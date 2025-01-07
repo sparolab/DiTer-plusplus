@@ -22,6 +22,7 @@
 ## News
 * Accepted in ICRA24 / Workshop on Future of Construction
 * Submitted to ICRA25
+* Dataset is now pre-released!!!! Check out the data that are in early release 
 
 
 ## Download
