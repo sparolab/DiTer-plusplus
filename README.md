@@ -7,7 +7,7 @@
   <br />
   <br />
   
-**(Under Review) [IEEE ICRA 25]** This repository is the official code for DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments.
+**[IEEE ICRA 25]** This repository is the official code for DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments.
 
   <a href="https://scholar.google.com/citations?user=2bvLmqQAAAAJ&hl=ko" target="_blank">Juwon Kim</a><sup></sup>,
   <a href="https://scholar.google.com/citations?user=t5UEbooAAAAJ&hl=ko" target="_blank">Hogyun Kim</a><sup></sup>,
@@ -23,7 +23,7 @@
 * Accepted in ICRA24 / Workshop on Future of Construction
 * Submitted to ICRA25
 * Dataset is now pre-released!!!! Check out the data that are in early release 
-
+* ** DiTer++ is now accepted to ICRA25 !!! Dataset and instructions will be released soon
 
 ## Download
 * The dataset is provided on-demand. Link containing all data in our paper will be uploaded soon. 
