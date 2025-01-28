@@ -23,7 +23,7 @@
 * Accepted in ICRA24 / Workshop on Future of Construction
 * Submitted to ICRA25
 * Dataset is now pre-released!!!! Check out the data that are in early release 
-* ** DiTer++ is now accepted to ICRA25 !!! Dataset and instructions will be released soon
+* ** DiTer++ is now accepted to ICRA25 !!! Dataset and instructions will be released soon **
 
 ## Download
 * The dataset is provided on-demand. Link containing all data in our paper will be uploaded soon. 
