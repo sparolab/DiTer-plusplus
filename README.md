@@ -23,10 +23,10 @@
 * Accepted in ICRA24 / Workshop on Future of Construction
 * Submitted to ICRA25
 * Dataset is now pre-released!!!! Check out the data that are in early release 
-* **DiTer++ is now accepted to ICRA25 !!! Dataset and instructions will be released soon**
+* **DiTer++ is now accepted to ICRA25 !!! Dataset is now released**
 
 ## Download
-* The dataset is provided on-demand. Link containing all data in our paper will be uploaded soon. 
+* Follow the link at the google site for details, or just head to the [Link](https://www.dropbox.com/scl/fo/zoawkn9s3thsjv3mkqux8/AN9G8TzeE_Uw92QBpE8hIKk?rlkey=h3d9eu8pf0g6w3h0ywbdbqiv6&e=1&st=t2gf8v6y&dl=0) to fetch the dataset directly. 
 
 ## Sensor Configuration
 * We configure multiple legged robot with various sensors offered in multi-session datasets.
