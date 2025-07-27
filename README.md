@@ -32,7 +32,8 @@
 * We configure multiple legged robot with various sensors offered in multi-session datasets.
 	<p align="center"><img src=fig/sensor_setup.png/></p>
 ### Calibration
-* Sensor calibration parameters including intrinsic & extrinsic will be uploaded soon.
+* Sensor calibration parameters including intrinsic & extrinsic are uploaded inside the [Link](https://www.dropbox.com/scl/fo/zoawkn9s3thsjv3mkqux8/AN9G8TzeE_Uw92QBpE8hIKk?rlkey=h3d9eu8pf0g6w3h0ywbdbqiv6&e=1&st=t2gf8v6y&dl=0). 
+Leave an issue or mail me (marimo117@inha.edu) if you have any questions.
 
 ## Data & Topic
 * Our data are stored in rosbag format
